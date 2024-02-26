@@ -1,3 +1,3 @@
-#PULSE Webiste Pricing Page [HTML & CSS]
+**PULSE Webiste Pricing Page [HTML & CSS]
 
 
